@@ -15,6 +15,7 @@ namespace App
             characterAge = 25;
             Console.WriteLine("He liked the name " + characterName);           
             Console.WriteLine("But did not like the age " + characterAge);
+            Console.WriteLine("But did not eighruiaseguir; uie` like the age " + characterAge);
             Console.ReadLine();
         }
     }
